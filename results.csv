@@ -1,0 +1,4 @@
+src,dst,path,delay_ms,throughput_mbps,packet_loss_pct,sim_time
+A,D,A→B→D,48.579534145780904,44.33,0.41,0.0
+A,D,A→C→B→D,190.3257575958824,18.27,1.72,0.0
+A,D,A→C→B→D,86.10305353217392,26.17,1.78,0.0
